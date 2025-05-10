@@ -1,0 +1,8 @@
+
+1. Express Intro
+2. Middlewares
+3. Routing
+4. Error Handling try, catch (next(err)=> global error handler)
+5. Database persistance MongoDB (mongoose)
+6. ازاي اخد فكره من اي عميل سواء شركه او فريلانس واحولها لداتابيز ديزاين
+7. Advanced Mongoose 
